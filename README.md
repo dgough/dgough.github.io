@@ -1,2 +1,1 @@
-dgough.github.io
-================
+Website for dgough.
